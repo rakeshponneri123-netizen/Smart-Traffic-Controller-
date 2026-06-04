@@ -1,0 +1,14 @@
+PROJECT REPORT: SMART TRAFFIC LIGHT CONTROLLER
+CODTECH IT SOLUTIONS INTERNSHIP PROJECT REPORT
+
+1. EXECUTIVE SUMMARY:
+This project presents an adaptive, density-based traffic light control mechanism. Instead of relying on static countdown timers, the system dynamically scales the green light duration based on live lane occupancy metrics and includes an automatic override system for emergency vehicles (Ambulances).
+
+2. METHODOLOGY:
+- Density Calculation: Di = (Vcount / Vmax) * 100
+- Dynamic Green Window: Tgreen = Tmin + delta * (Di / Sum of Dn)
+
+3. EXPECTED OUTCOMES:
+- 25% to 35% reduction in commuter wait times.
+- Decreased environmental carbon emissions through lower vehicle idling.
+
