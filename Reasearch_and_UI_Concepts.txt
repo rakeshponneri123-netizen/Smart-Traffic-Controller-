@@ -1,0 +1,10 @@
+========================================================================
+PROJECT BACKGROUND RESEARCH & SYSTEM ARCHITECTURE
+========================================================================
+1. INTRODUCTION & PROBLEM STATEMENT:
+Traditional traffic systems use fixed timers, causing delays on empty roads. This project uses dynamic, density-based control via sensors/cameras to optimize green light windows and reduce congestion.
+
+2. USER INTERFACE (UI) DASHBOARD SPECIFICATION:
+- Column 1: Live Intersection Node Monitor (Junction Dropdown, Manual Override).
+- Column 2: Live Vector Cardinal Road Map (Visual 2D bird's-eye schematic).
+- Column 3: Metric Analytics & Emergency Override HUD (Ambulance preemption active alert).
