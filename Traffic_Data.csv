@@ -1,0 +1,13 @@
+Junction_ID,Lane_ID,Time_of_Day,Vehicle_Count,Traffic_Density_Level,Dynamic_Green_Time_Seconds
+JUNC_01,Lane_A,08:00 AM,45,High,60
+JUNC_01,Lane_B,08:00 AM,12,Low,20
+JUNC_01,Lane_C,08:00 AM,28,Medium,40
+JUNC_01,Lane_D,08:00 AM,5,Very Low,15
+JUNC_01,Lane_A,02:00 PM,15,Low,25
+JUNC_01,Lane_B,02:00 PM,18,Low,25
+JUNC_01,Lane_C,02:00 PM,22,Medium,35
+JUNC_01,Lane_D,02:00 PM,14,Low,20
+JUNC_01,Lane_A,06:30 PM,52,Very High,75
+JUNC_01,Lane_B,06:30 PM,35,High,50
+JUNC_01,Lane_C,06:30 PM,41,High,60
+JUNC_01,Lane_D,06:30 PM,19,Medium,30
